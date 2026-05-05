@@ -1,7 +1,7 @@
 {
        "test_case": "Login Functionality",
 
-       "steps": ["Open App", "Enter Credentials", "Click Login"],
+       "steps": [""],
 
        "expected_result": "User navigates to dashboard"
 
